@@ -1,4 +1,4 @@
-# Basic python calculator with GUI
+### Basic python calculator with GUI
 
 ## Installation
 ```
